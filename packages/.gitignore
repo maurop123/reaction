@@ -3,6 +3,8 @@
 
 !my-custom-theme-template
 !my-custom-theme-template/*
+!marienbad-custom-theme
+!marienbad-custom-theme/*
 
 !reaction-accounts
 !reaction-analytics
